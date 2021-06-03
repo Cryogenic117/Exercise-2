@@ -1,3 +1,8 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  Copyright 2021 Brandon Knudson
+ */
+
 // Takes user input and returns character count
 package oop.example;
 import java.util.Scanner;
